@@ -1,2 +1,1 @@
-# 3-reward-related-methods-in-RL
-3-reward-related-methods-in-RL
+﻿﻿﻿﻿﻿# 3-reward-related-methods-in-RL3-reward-related-methods-in-RL稀疏奖励问题hindsight experience replay一般稀疏奖励都会跟强探索问题联系在一起逆向强化学习
