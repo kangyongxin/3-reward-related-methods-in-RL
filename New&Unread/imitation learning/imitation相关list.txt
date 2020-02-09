@@ -1,0 +1,28 @@
+	Addressing Sample Inefficiency and Reward Bias in Inverse Reinforcement Learning
+Sample-Efficient Policy Learning based on Completely Behavior Cloning
+Extended Reproduction of Demonstration Motion Using Variational Autoencoder
+
+Reinforcement and Imitation Learning for Diverse Visuomotor Skills –ziyu wang 2018
+Sample Efficient Actor-Critic with Experience Replay-ziyu wang 2017
+Parallel Multiscale Autoregressive Density Estimation – ziyu wang 2017
+Dueling Network Architectures for Deep Reinforcement Learning-ziyu wang 2016
+Bayesian Optimisation for Machine Translation-ziyu wang 2014
+Theoretical Analysis of Bayesian Optimisation with Unknown Gaussian Process Hyper-Parameters-ziyu wang 2014
+
+CGAN CVAE
+
+Reverse Curriculum Generation for Reinforcement Learning
+
+one shot imitation 3篇
+
+Imitation learning 相关论文
+[1] Model-Free Imitation Learning with Policy Optimization, OpenAI, 2016
+[2] Generative Adversarial Imitation Learning, OpenAI, 2016
+[3] One-Shot Imitation Learning, OpenAI, 2017
+[4] Third-Person Imitation Learning, OpenAI, 2017
+[5] Learning human behaviors from motion capture by adversarial imitation, DeepMind, 2017
+[6] Robust Imitation of Diverse Behaviors, DeepMind, 2017
+[7] Unsupervised Perceptual Rewards for Imitation Learning, Google Brain, 2017
+[8] Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation, Google Brain, 2017
+[9] Imitation from Observation/ Learning to Imitate Behaviors from Raw Video via Context Translation, OpenAI, 2017
+[10] One Shot Visual Imitation Learning , OpenAI, 2017
